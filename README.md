@@ -19,4 +19,4 @@ source ~/.bashrc
 gem install jekyll bundler
 ```
 
-After navigating to your desired repo folder, use `jekyll new .` to start a new site. 
+After navigating to your desired repo folder, use `jekyll new .` to start a new site, note that if you've started your `README.md` already you might need to use `jekyll new . --force`.
